@@ -1,101 +1,100 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Produk Kami
+image: /img/rumah-kayu-panggung.jpg
+heading: Rumah Kayu Berkualitas Tinggi
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kami adalah tempat terbaik untuk Anda yang menginginkan rumah kayu berkualitas
+  tinggi dengan desain yang indah dan konstruksi yang kuat. Kami sangat memperhatikan
+  pemilihan material, proses pembangunan, dan finishing, serta senang berbagi
+  pengetahuan tersebut kepada siapa saja.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menyediakan berbagai jenis rumah kayu berkualitas yang bersumber langsung
+        dari produsen terpercaya. Kami bangga menawarkan pilihan rumah kayu yang
+        dibangun dengan perhatian besar terhadap lingkungan dan komunitas lokal.
+        Lihat postingan kami atau hubungi kami langsung untuk ketersediaan saat ini.
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Kami menawarkan pilihan kecil namun terpilih dari perlengkapan dan aksesoris
+        rumah kayu untuk setiap selera dan tingkat kebutuhan. Baik Anda membangun
+        rumah pertama atau mencari upgrade, Anda akan menemukan produk yang tepat
+        di toko kami.
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Ingin memiliki rumah kayu impian tapi tidak tahu harus mulai dari mana?
+        Baru saja membeli lahan tapi bingung desainnya? Jangan khawatir, kami siap
+        membantu. Anda dapat menjadwalkan konsultasi khusus 1-on-1 dengan tim ahli
+        kami untuk mempelajari apa pun yang ingin Anda ketahui tentang rumah kayu.
+        Email kami atau hubungi toko untuk detailnya.
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Kami percaya bahwa rumah kayu yang baik memiliki kekuatan untuk menyatukan
+        keluarga. Itulah mengapa kami memutuskan untuk menciptakan ruang showroom
+        yang nyaman di mana Anda bisa berkumpul dengan pecinta rumah kayu lainnya
+        dan belajar tentang teknik konstruksi. Kunjungi showroom kami untuk
+        inspirasi desain Anda.
+  heading: Apa yang Kami Tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Kami adalah tempat terbaik untuk pecinta rumah kayu yang ingin belajar tentang
+    asal material dan mendukung produsen yang memproduksinya. Kami sangat serius
+    dalam pemilihan kayu, konstruksi dan finishing, serta senang berbagi pengetahuan
+    tersebut kepada siapa saja.
 main:
-  heading: Great coffee with no compromises
+  heading: Rumah kayu berkualitas tanpa kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami menjaga standar tertinggi rumah kayu kami dari pemilihan material hingga
+    finishing. Itulah mengapa kami sangat teliti dan transparan tentang setiap langkah
+    perjalanan konstruksi rumah. Kami secara pribadi mengunjungi setiap supplier untuk
+    memastikan kondisi optimal untuk material, pekerja dan lingkungan lokal.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Rumah kayu berkualitas tinggi
+    image: /img/rumah-kayu-panggung.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Rumah kayu alami dan nyaman
+    image: /img/rumah-kayu-panggung.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Konstruksi rumah kayu
+    image: /img/rumah-kayu-panggung.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      Pertama kali saya melihat rumah kayu dari mereka, saya tidak bisa percaya
+      bahwa ini adalah rumah yang sama seperti yang selama ini saya bayangkan.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Ini adalah tempat terbaik jika Anda menginginkan rumah kayu berkualitas tinggi.
+      Saya sangat menghargai komitmen mereka terhadap transparansi dan kualitas.
+full_image: /img/rumah-kayu-panggung.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Paket Berlangganan
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kami memudahkan Anda untuk memiliki rumah kayu impian sebagai bagian dari hidup Anda.
+    Pilih salah satu paket berlangganan bulanan kami untuk mendapatkan konsultasi rutin
+    setiap bulan. Hubungi kami untuk detail lebih lanjut dan informasi pembayaran.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Sempurna untuk yang ingin konsultasi rutin 1-2 kali per bulan.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - Konsultasi 3 jam per bulan
+        - Desain awal atau revisi
+        - Satu atau dua opsi desain
+      plan: Kecil
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: 'Cocok untuk proyek besar, pasangan yang ingin membangun bersama, dan kebutuhan kompleks'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Konsultasi 6 jam per bulan
+        - Desain lengkap atau revisi
+        - Hingga 4 opsi desain berbeda
+      plan: Besar
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Ingin beberapa opsi desain dari berbagai gaya? Coba paket kustom kami
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Sesuai kebutuhan Anda
+        - Desain awal atau lengkap
+        - Opsi desain tak terbatas
+      plan: Kustom
       price: '??'
 ---

@@ -1,70 +1,69 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Rumah Kayu Berkualitas Tinggi
+image: /img/rumah-kayu-panggung.jpg
+heading: Rumah Kayu Berkualitas Tinggi
+subheading: Membangun hunian alami yang nyaman dan berkelanjutan
 mainpitch:
-  title: Why Kaldi
+  title: Mengapa Memilih Kami
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kami adalah penyedia rumah kayu untuk semua orang yang percaya bahwa hunian
+    berkualitas tidak hanya indah dipandang, tetapi juga ramah lingkungan. Kami
+    menggunakan kayu pilihan dari sumber yang berkelanjutan dan memastikan setiap
+    produk memberikan kenyamanan maksimal bagi keluarga Anda.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kami adalah tempat terbaik untuk Anda yang menginginkan rumah kayu berkualitas
+  tinggi dengan desain yang indah dan konstruksi yang kuat. Kami sangat memperhatikan
+  pemilihan material, proses pembangunan, dan finishing, serta senang berbagi
+  pengetahuan tersebut kepada siapa saja.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menyediakan berbagai jenis rumah kayu berkualitas yang bersumber langsung
+        dari produsen terpercaya. Kami bangga menawarkan pilihan rumah kayu yang
+        dibangun dengan perhatian besar terhadap lingkungan dan komunitas lokal.
+        Lihat postingan kami atau hubungi kami langsung untuk ketersediaan saat ini.
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Kami menawarkan pilihan kecil namun terpilih dari perlengkapan dan aksesoris
+        rumah kayu untuk setiap selera dan tingkat kebutuhan. Baik Anda membangun
+        rumah pertama atau mencari upgrade, Anda akan menemukan produk yang tepat
+        di toko kami.
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Ingin memiliki rumah kayu impian tapi tidak tahu harus mulai dari mana?
+        Baru saja membeli lahan tapi bingung desainnya? Jangan khawatir, kami siap
+        membantu. Anda dapat menjadwalkan konsultasi khusus 1-on-1 dengan tim ahli
+        kami untuk mempelajari apa pun yang ingin Anda ketahui tentang rumah kayu.
+        Email kami atau hubungi toko untuk detailnya.
+    - image: /img/rumah-kayu-panggung.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Kami percaya bahwa rumah kayu yang baik memiliki kekuatan untuk menyatukan
+        keluarga. Itulah mengapa kami memutuskan untuk menciptakan ruang showroom
+        yang nyaman di mana Anda bisa berkumpul dengan pecinta rumah kayu lainnya
+        dan belajar tentang teknik konstruksi. Kunjungi showroom kami untuk
+        inspirasi desain Anda.
+  heading: Apa yang Kami Tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Kami adalah tempat terbaik untuk pecinta rumah kayu yang ingin belajar tentang
+    asal material dan mendukung produsen yang memproduksinya. Kami sangat serius
+    dalam pemilihan kayu, konstruksi dan finishing, serta senang berbagi pengetahuan
+    tersebut kepada siapa saja.
 main:
-  heading: Great coffee with no compromises
+  heading: Rumah kayu berkualitas tanpa kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami menjaga standar tertinggi rumah kayu kami dari pemilihan material hingga
+    finishing. Itulah mengapa kami sangat teliti dan transparan tentang setiap langkah
+    perjalanan konstruksi rumah. Kami secara pribadi mengunjungi setiap supplier untuk
+    memastikan kondisi optimal untuk material, pekerja dan lingkungan lokal.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Rumah kayu berkualitas tinggi
+    image: /img/rumah-kayu-panggung.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Rumah kayu alami dan nyaman
+    image: /img/rumah-kayu-panggung.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Konstruksi rumah kayu
+    image: /img/rumah-kayu-panggung.jpg
 ---

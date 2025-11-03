@@ -1,19 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Tentang Nilai-Nilai Kami
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Kayu Pilihan Berkualitas
+Kayu adalah material alami yang tumbuh dengan baik di lingkungan hutan yang sehat. Kami memilih kayu berkualitas tinggi dari sumber yang berkelanjutan untuk memastikan setiap rumah yang kami bangun memberikan kenyamanan maksimal dan ramah lingkungan.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Sumber Tunggal Terpercaya
+Kayu pilihan kami bersumber dari lokasi geografis yang dikenal kualitasnya. Kadang-kadang, ini adalah dari pemasok tunggal atau koleksi khusus kayu dari satu negara. Nama kayu kemudian biasanya mengacu pada tempat tumbuhnya untuk memberikan transparansi penuh.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Pertanian Berkelanjutan
+Pertanian berkelanjutan adalah cara bercocok tanam berdasarkan pemahaman tentang layanan ekosistem dan studi hubungan antara organisme dan lingkungannya. Apa yang tumbuh di mana dan bagaimana ditanam adalah masalah pilihan dan pertimbangan cermat untuk alam dan komunitas.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Sumber Langsung
+Perdagangan langsung adalah bentuk pengadaan yang kami praktikkan. Kami mempromosikan komunikasi langsung dan negosiasi harga antara pembeli dan petani atau produsen, bersama dengan sistem yang mendorong dan memberi insentif pada kualitas.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Reinvestasi Keuntungan
+Kami ingin benar-benar memberdayakan komunitas yang menghadirkan material berkualitas kepada Anda. Itulah mengapa kami menginvestasikan kembali 20% dari keuntungan kami ke dalam pertanian, bisnis lokal, dan sekolah di mana pun kayu kami berasal. Anda dapat melihat komunitas tumbuh dan belajar lebih banyak tentang pertanian kayu di blog kami.

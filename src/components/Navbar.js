@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="Rumah Kayu" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
@@ -40,12 +40,12 @@ const Navbar = () => {
              */}
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/about">
-              About
+              Tentang
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/products">
-              Products
+              Produk
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
@@ -55,12 +55,12 @@ const Navbar = () => {
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/contact">
-              Contact
+              Kontak
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/contact/examples">
-              Form Examples
+              Contoh Formulir
             </Link>
           </li>
           <li className="navbar-end has-text-centered">
